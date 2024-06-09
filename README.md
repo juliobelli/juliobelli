@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Desenvolvedor - Full Stack | São Paulo - Campinas</h2>
+<h2 align="center">Developer - Full Stack | São Paulo - Campinas</h2>
 
 ###
 
