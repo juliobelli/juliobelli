@@ -74,7 +74,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://steamuserimages-a.akamaihd.net/ugc/784106249120316465/D1911ADCDC958ADF5C7DD6E7454BEC173686AAB5/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+  <img height="240" src="https://steamuserimages-a.akamaihd.net/ugc/784106249120316465/D1911ADCDC958ADF5C7DD6E7454BEC173686AAB5/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
 
 ###
